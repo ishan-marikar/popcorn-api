@@ -18,7 +18,7 @@
     "horriblesubs-api": "^1.0.5",
     "hummingbird-api": "^1.0.9",
     "kat-api-pt": "^1.0.12",
-    "mongoose": "^4.7.3",
+    "mongoose": "^5.3.9",
     "node-tvdb": "^2.0.20",
     "nyaa-api-pt": "^1.0.8",
     "omdb-api-pt": "^1.0.0",
