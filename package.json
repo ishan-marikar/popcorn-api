@@ -19,7 +19,7 @@
     "hummingbird-api": "^1.0.9",
     "kat-api-pt": "^1.0.12",
     "mongoose": "^4.7.3",
-    "node-tvdb": "^2.0.20",
+    "node-tvdb": "^3.0.0",
     "nyaa-api-pt": "^1.0.8",
     "omdb-api-pt": "^1.0.0",
     "parse-torrent": "^5.8.1",
