@@ -17,7 +17,7 @@
     "fanart.tv-api": "^1.0.2",
     "horriblesubs-api": "^1.0.5",
     "hummingbird-api": "^1.0.9",
-    "kat-api-pt": "^1.0.12",
+    "kat-api-pt": "^2.0.0",
     "mongoose": "^4.7.3",
     "node-tvdb": "^2.0.20",
     "nyaa-api-pt": "^1.0.8",
