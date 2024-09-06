@@ -8,7 +8,7 @@
     "eztv-api-pt": "^1.3.1",
     "fanart.tv-api": "^2.0.1",
     "horriblesubs-api": "^1.0.8",
-    "inquirer": "^4.0.1",
+    "inquirer": "^9.0.0",
     "kat-api-pt": "^3.0.0",
     "mongoose": "^5.0.0-rc0",
     "node-tvdb": "^3.2.0",
@@ -16,12 +16,12 @@
     "omdb-api-pt": "^2.0.1",
     "p-map": "^1.2.0",
     "p-times": "^1.0.1",
-    "parse-torrent": "^5.8.3",
+    "parse-torrent": "^9.1.5",
     "pop-api": "^0.6.2",
     "pop-api-scraper": "^0.1.2",
     "tmdbapi": "^1.0.2",
     "trakt.tv": "^6.0.2",
-    "webtorrent-health": "^1.1.1",
+    "webtorrent-health": "^1.2.0",
     "yts-api-pt": "^2.0.0"
   },
   "devDependencies": {
