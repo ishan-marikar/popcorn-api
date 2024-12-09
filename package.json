@@ -10,7 +10,7 @@
     "horriblesubs-api": "^1.0.8",
     "inquirer": "^4.0.1",
     "kat-api-pt": "^3.0.0",
-    "mongoose": "^5.0.0-rc0",
+    "mongoose": "^8.8.3",
     "node-tvdb": "^3.2.0",
     "nyaa-api-pt": "^2.0.0",
     "omdb-api-pt": "^2.0.1",
