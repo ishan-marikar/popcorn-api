@@ -21,7 +21,7 @@
     "pop-api-scraper": "^0.1.2",
     "tmdbapi": "^1.0.2",
     "trakt.tv": "^6.0.2",
-    "webtorrent-health": "^1.1.1",
+    "webtorrent-health": "^1.2.0",
     "yts-api-pt": "^2.0.0"
   },
   "devDependencies": {
