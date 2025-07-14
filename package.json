@@ -11,7 +11,7 @@
     "inquirer": "^4.0.1",
     "kat-api-pt": "^3.0.0",
     "mongoose": "^5.0.0-rc0",
-    "node-tvdb": "^3.2.0",
+    "node-tvdb": "^4.0.0",
     "nyaa-api-pt": "^2.0.0",
     "omdb-api-pt": "^2.0.1",
     "p-map": "^1.2.0",
