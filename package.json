@@ -8,7 +8,7 @@
     "eztv-api-pt": "^1.3.1",
     "fanart.tv-api": "^2.0.1",
     "horriblesubs-api": "^1.0.8",
-    "inquirer": "^4.0.1",
+    "inquirer": "^8.2.7",
     "kat-api-pt": "^3.0.0",
     "mongoose": "^5.0.0-rc0",
     "node-tvdb": "^3.2.0",
